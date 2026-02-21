@@ -1,2 +1,2 @@
 # Star-Explorer
-Interactive HR Diagram built with Streamlit
+Interactive HR Diagram & Stellar Classification Tool
